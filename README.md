@@ -50,16 +50,18 @@ database/  SQL                                          (HTTP-denied)
 tools/     CLI scripts                                  (HTTP-denied, CLI-only)
 ```
 Audit trail: the `audit_log` table records sign-ins, account creation, password resets and every grade change (old → new).
-
 **Teacher/Admin**
 - ven.squimay@gmail.com
 - 1
+
 **Teacher**
 - buriklein@gmail.com
 - kleinmabaho
+
 **Admin**
 - skibidisigmarizz@gmail.com
 - skibidi
+
 **Students**
 - ICT Programming
   - 401726150119
@@ -82,4 +84,3 @@ Audit trail: the `audit_log` table records sign-ins, account creation, password 
   - Kleinwise M. Florenciano
 - **Research Adviser**
   - Mr. Roderick F. Ferros
-
